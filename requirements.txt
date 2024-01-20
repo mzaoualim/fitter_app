@@ -1,0 +1,10 @@
+streamlit
+time
+datetime
+fitter
+pandas
+numpy
+matplotlib.pyplot
+pickle
+yfinance
+streamlit-aggrid
