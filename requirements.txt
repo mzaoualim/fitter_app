@@ -1,10 +1,9 @@
-streamlit
+streamlit==1.30.0
 time
 datetime
 fitter
 pandas
 numpy
 matplotlib.pyplot
-pickle
 yfinance
 pip
