@@ -3,6 +3,5 @@ datetime
 fitter
 pandas
 numpy
-matplotlib.pyplot
+matplotlib
 yfinance
-pip
